@@ -1,3 +1,4 @@
-# github-sv3nxq
+# Lerna + Webpack
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/github-sv3nxq)
+Microservice 101.
+2 apps (nuxt) to connect with each other.
